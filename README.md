@@ -4,10 +4,10 @@ my new project
 Added add_code file<br>
 It was available to use it for the walkthrough text
 
-Attemped 1st: 
+1st attempt: 
 - Time elapsed 18.45 sec
 
-Attemped 2nd: 
+2nd attempt: 
 - Time elapsed 12.36 sec.
 - The output file was more readable.
 
